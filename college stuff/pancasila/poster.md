@@ -1,4 +1,4 @@
-<h1 align="center">Ide Poster Pancasila<h1>
+<h1 align="center">Ide Poster Pancasila</h1>
 <ol type="1">
     <li>Berisi sekumpualan orang dengan warna kulit yang berbeda</li>
     <li>Orang orang tersebut memakai baju adat yang populer di masyarakat dan melambangkan Indonesia</li>
